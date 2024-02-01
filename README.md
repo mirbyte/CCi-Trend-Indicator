@@ -5,7 +5,7 @@
 
 _I prioritize updates on the cTrader website._
 
-Update log:
+**Update log:**
 
 v1.12 - Color picker added (29.1.2024)
 
