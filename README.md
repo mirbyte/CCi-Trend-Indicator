@@ -6,7 +6,7 @@
 
 Last update 30.1.2024
 
-Update log:
+**Update log:**
 
 v1.1 - Signal arrows added with a color picker, settings formatted
 
