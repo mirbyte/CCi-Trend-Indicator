@@ -1,4 +1,4 @@
-## CCi Trend Indicator for cTrader
+## CCI Trend Indicator for cTrader
 
 
 ![65b8f1750b379](https://github.com/mirbyte/CCi-Trend-Indicator/assets/83219244/38be3d72-38b9-4999-a1ee-e248180ddf71)
